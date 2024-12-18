@@ -1,0 +1,6 @@
+state_weights
+4 0
+"s" 4
+"er" 3
+"o" 2
+"e" 1

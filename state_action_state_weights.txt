@@ -1,0 +1,8 @@
+state_action_state_weights
+6 4 1 0
+"s" "N" "er" 80
+"s" "N" "o" 20
+"er" "N" "o" 70
+"er" "N" "e" 30
+"o" "N" "e" 50
+"e" "N" "s" 50

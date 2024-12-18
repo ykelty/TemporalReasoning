@@ -1,0 +1,7 @@
+observation_actions
+5
+"S" "N"
+"ER0" "N"
+"Z" "N"
+"EH0" "N"
+"AH0" "N"

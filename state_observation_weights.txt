@@ -1,0 +1,10 @@
+state_observation_weights
+9 4 5 0
+"s" "S" 80
+"s" "Z" 20
+"er" "ER0" 70
+"er" "AH0" 30
+"o" "Z" 50
+"o" "EH0" 50
+"e" "EH0" 60
+"e" "AH0" 40
